@@ -1,0 +1,27 @@
+{
+  "name": "cartographie-de-lartisanat-tunisien",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@trendmicro/react-sidenav": "^0.5.0",
+    "@zeit/next-css": "^1.0.1",
+    "date-fns": "^2.16.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.8",
+    "next": "10.0.3",
+    "next-pwa": "^5.0.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-map-gl": "^6.0.1",
+    "react-map-gl-geocoder": "^2.1.6",
+    "react-query": "^3.4.0",
+    "uuid": "^8.3.2"
+  },
+  "keywords": [],
+  "description": ""
+}
