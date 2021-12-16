@@ -1,0 +1,7 @@
+.info {
+  position: relative;
+  z-index: 100;
+}
+.infoMessage {
+  padding: 10px 5px;
+}
