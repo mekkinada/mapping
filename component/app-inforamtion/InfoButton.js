@@ -17,7 +17,7 @@ function InfoButton() {
 
       {showInfo && (
         <div className={style.infoContainer}>
-          <div></div>
+          <div>map of organizations</div>
           <button
             onClick={() => setShowInfo(!showInfo)}
             className={style.closeInfoButton}
